@@ -1,0 +1,8 @@
+logging:
+  level:
+    com: trace
+#  file: my.log
+  path: my2.log
+  pattern:
+    console:
+    file:
